@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>000472.jpg</filename>
+	<path>E:\Graduation Project\IMPLEMENTATION2\tensorflow\workspace\training_demo\images\test\000472.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>648</xmin>
+			<ymin>416</ymin>
+			<xmax>717</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
