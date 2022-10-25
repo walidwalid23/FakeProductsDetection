@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>000452.jpg</filename>
+	<path>E:\Graduation Project\IMPLEMENTATION2\images\train\000452.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>874</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>185</ymin>
+			<xmax>584</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
